@@ -1,7 +1,7 @@
 <p align="center">
     <img height="50%" width="auto" src="https://readmestatslol.vercel.app/api?username=charlottelyra&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
     <img height="50%" width="auto" src="https://readmestatslol.vercel.app/api/top-langs/?username=charlottelyra&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=charlottelyra&theme=darcula&hide_border=true&background=FFFFFF00">
+    <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=charlottelyra&theme=darcula&hide_border=true&background=FFFFFF00">-->
     <br>
     <br>
 </p>
